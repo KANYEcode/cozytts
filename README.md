@@ -15,6 +15,7 @@ Free TTS for cozy chat
 - TTS is triggered if the chat includes `@CHANNEL` e.g. `@wendell`
 - A user can also try to select a language by putting it in square brackets, e.g. `[fr]` will try to use a French voice
   - The available voices depends on the streamer's browser. I found that Brave only has 4 included voices and Chrome seems to have 22. This may vary
+- Currently does NOT do any animation or highlighting of the chat, i.e. it's voice only.  
   
   
 # Voices
